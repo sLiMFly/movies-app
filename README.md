@@ -30,6 +30,9 @@ You must obtain your api key from: https://www.themoviedb.org/settings/api
 
 ## Video
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/1fae393c-ecee-4f33-942c-d1c0a1a52d8e" width="400" />
+</div>
 
 https://github.com/user-attachments/assets/1fae393c-ecee-4f33-942c-d1c0a1a52d8e
 
