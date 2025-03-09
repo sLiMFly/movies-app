@@ -29,11 +29,11 @@ Required API key to access the API.
 You must obtain your api key from: https://www.themoviedb.org/settings/api
 
 ## Video
-![movies-app](src="./assets/screenshots/movies-app.mp4")
+
+![movies-app](https://github.com/user-attachments/assets/04792db9-0765-4765-81b6-bbcbdda02fc6)
 
 
-https://github.com/user-attachments/assets/152d29e1-4852-4faa-9e58-9690c3959a23
-
+https://github.com/user-attachments/assets/1fae393c-ecee-4f33-942c-d1c0a1a52d8e
 
 
 
