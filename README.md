@@ -1,6 +1,6 @@
 # Movies App
 
-**Movies App** Aplicación de información de peliculas (themoviedb) con react native y expo.
+**Movies App** Aplicación de información de películas (themoviedb) con react native y expo.
 
 ## Instalación
 
