@@ -1,9 +1,8 @@
 # Movies App
 
-**Movies App** Aplicación de información de peliculas con react native y expo.
+**Movies App** Aplicación de información de peliculas (themoviedb) con react native y expo.
 
 ## Instalación
-
 
 1. Clonar repositorio:
    ```bash
@@ -18,7 +17,7 @@
    npm start
    ```
 
-## Usage
+## Uso
 
 Una vez abierta, presiona "a" para abrir en Android, "i" para iOS, "w" para verlo via web, o escanear en código QR para abrirlo en dispositivo físico.
 
@@ -34,7 +33,7 @@ Debes registrarte y obtenerla en: https://www.themoviedb.org/settings/api
 </div>
 
 
-## Screenshots
+## Captura
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/16e4730f-eb2f-485f-b61e-3db9cc9ad98d" alt="Navigation App Screenshot" width="200"/>
