@@ -30,12 +30,13 @@ You must obtain your api key from: https://www.themoviedb.org/settings/api
 
 ## Video
 
+
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/1fae393c-ecee-4f33-942c-d1c0a1a52d8e" width="400" />
+  <video sr="https://github.com/user-attachments/assets/d987ada1-f801-4fdd-99b1-c0115bd9760b" width="400" />
 </div>
 
 ## Screenshots
 
 <div align="center">
-    <img src="./assets/screenshots/movies-app.png" alt="Navigation App Screenshot" width="200"/>
+    <img src="https://github.com/user-attachments/assets/16e4730f-eb2f-485f-b61e-3db9cc9ad98d" alt="Navigation App Screenshot" width="200"/>
 </div>
