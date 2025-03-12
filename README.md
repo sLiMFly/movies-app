@@ -37,5 +37,5 @@ You must obtain your api key from: https://www.themoviedb.org/settings/api
 ## Screenshots
 
 <div align="center">
-    <img src="./assets/screenshots/movies-app.png" alt="Navigation App Screenshot" width="200"/>
+    <img src="./assets/screenshots/movies-app1.png" alt="Navigation App Screenshot" width="200"/>
 </div>
