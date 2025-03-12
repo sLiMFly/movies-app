@@ -9,7 +9,7 @@ export class CastMapper {
       character: actor.character ?? "No character",
       avatar: actor.profile_path
         ? `https://image.tmdb.org/t/p/w500${actor.profile_path}`
-        : "../../assets/images/NoImagen.png", // esto en caso de no tener imagen
+        : "https://i.stack.imgur.com/l60Hf.png", // esto en caso de no tener imagen
     };
   }
 }
