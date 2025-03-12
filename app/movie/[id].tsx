@@ -1,3 +1,5 @@
+import MovieCast from '@/presentation/components/movie/MovieCast';
+import MovieDescription from '@/presentation/components/movie/MovieDescription';
 import MoviesHeader from '@/presentation/components/movie/MoviesHeader';
 import { useMovie } from '@/presentation/hooks/useMovie';
 import { useLocalSearchParams } from 'expo-router';
@@ -7,7 +9,7 @@ const MovieScreen = () => {
 
     const { id } = useLocalSearchParams();
 
-    const { movieQuery } = useMovie(+id);
+    const { movieQuery, castQuery } = useMovie(+id);
 
     if (movieQuery.isLoading || !movieQuery.data) {
         return (
@@ -26,6 +28,13 @@ const MovieScreen = () => {
                 poster={movieQuery.data.poster}
                 title={movieQuery.data.title}
             />
+
+            <MovieDescription movie={movieQuery.data}
+            />
+
+            {/* <MovieCast /> */}
+            <MovieCast cast={castQuery.data ?? []} />
+
 
         </ScrollView>
     )

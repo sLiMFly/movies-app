@@ -7,26 +7,28 @@ import {
 
 import "../global.css"
 import { Stack } from 'expo-router'
+import { GestureHandlerRootView } from 'react-native-gesture-handler'
 
 const queryClient = new QueryClient()
 
 const RootLayout = () => {
 
   return (
+    <GestureHandlerRootView>
 
-    <QueryClientProvider client={queryClient}>
+      <QueryClientProvider client={queryClient}>
 
-      <Stack
-        screenOptions={{
-          headerShown: false,
-          contentStyle: {
-            // backgroundColor: 'white'
-          }
-        }}
-      />
+        <Stack
+          screenOptions={{
+            headerShown: false,
+            contentStyle: {
+              backgroundColor: 'white'
+            }
+          }}
+        />
 
-    </QueryClientProvider>
-
+      </QueryClientProvider>
+    </GestureHandlerRootView>
 
   )
 }

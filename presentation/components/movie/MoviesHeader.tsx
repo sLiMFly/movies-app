@@ -70,8 +70,8 @@ const MoviesHeader = ({ poster, originalTitle, title }: Props) => {
                     />
                 </View>
 
-                <View className='px-5 mt-5'>
-                    <Text className='text-xl font-bold'>{originalTitle}</Text>
+                <View className='px-5 mt-5 justify-center items-center'>
+                    {/* <Text className='text-xl font-bold'>{originalTitle}</Text> */}
                     <Text className='text-xl font-semibold'>{title}</Text>
 
                 </View>
