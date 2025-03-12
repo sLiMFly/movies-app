@@ -20,7 +20,7 @@ const RootLayout = () => {
         screenOptions={{
           headerShown: false,
           contentStyle: {
-            backgroundColor: 'white'
+            // backgroundColor: 'white'
           }
         }}
       />

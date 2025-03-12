@@ -33,14 +33,14 @@ const HomeScreen = () => {
 
                 {/* popular */}
                 <MoviesHorizontalList
-                    title="Popular"
+                    title="Populares"
                     movies={popularQuery.data ?? []}
                     className='mb-5'
                 />
 
                 {/* top rated */}
                 <MoviesHorizontalList
-                    title="Top Rated"
+                    title="Mejor calificadas"
                     movies={topQuery.data?.pages.flat() ?? []}
                     className='mb-5'
                     loadNextPage={topQuery.fetchNextPage}
@@ -48,7 +48,7 @@ const HomeScreen = () => {
 
                 {/* upcoming */}
                 <MoviesHorizontalList
-                    title="Upcoming"
+                    title="Próximamente"
                     movies={upcomingQuery.data ?? []}
                     className='mb-5'
                 />
