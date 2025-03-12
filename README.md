@@ -1,32 +1,31 @@
 # Movies App
 
-**Movies App** Simple movie info app with react native and expo.
+**Movies App** Aplicación de información de peliculas con react native y expo.
 
-## Installation
+## Instalación
 
-To get started the App, follow these steps:
 
-1. Clone the repository:
+1. Clonar repositorio:
    ```bash
    git clone https://github.com/sLiMFly/movies-app.git
    ```
-2. Install the dependencies:
+2. Instalar dependencias:
    ```bash
    npm install
    ```
-3. Run the app:
+3. Ejecutar aplicación:
    ```bash
    npm start
    ```
 
 ## Usage
 
-Once opened, you can press "a" key to open in virtual device Android, press "i" for iOS, press "w" to view on the web, or scan the QR code on a physical device.
+Una vez abierta, presiona "a" para abrir en Android, "i" para iOS, "w" para verlo via web, o escanear en código QR para abrirlo en dispositivo físico.
 
 ## API Key
 
-Required API key to access the API.
-You must obtain your api key from: https://www.themoviedb.org/settings/api
+Requiere de una clave API:
+Debes registrarte y obtenerla en: https://www.themoviedb.org/settings/api
 
 ## Video
 
