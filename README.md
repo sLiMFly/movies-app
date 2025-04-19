@@ -38,3 +38,7 @@ Debes registrarte y obtenerla en: https://www.themoviedb.org/settings/api
 <div align="center">
     <img src="https://github.com/user-attachments/assets/16e4730f-eb2f-485f-b61e-3db9cc9ad98d" alt="Navigation App Screenshot" width="200"/>
 </div>
+
+
+
+Ejercicio del curso de [Fernando Herrera](https://fernando-herrera.com/)
